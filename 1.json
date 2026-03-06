@@ -8,6 +8,13 @@
   },
   {
     "type": "MatchPatternHost",
+    "domain": "youtube.com",
+    "pattern": "*.youtube.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
     "domain": "o4507390533238784.ingest.de.sentry.io",
     "pattern": "*.o4507390533238784.ingest.de.sentry.io/*",
     "proxy": "DIRECT",
