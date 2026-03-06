@@ -1,0 +1,541 @@
+[
+  {
+    "type": "MatchPatternHost",
+    "domain": "o4507390533238784.ingest.de.sentry.io",
+    "pattern": "*.o4507390533238784.ingest.de.sentry.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "api2.amplitude.com",
+    "pattern": "*.api2.amplitude.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "api.pharosnetwork.xyz",
+    "pattern": "*.api.pharosnetwork.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "sr-client-cfg.amplitude.com",
+    "pattern": "*.sr-client-cfg.amplitude.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "twitter.com",
+    "pattern": "*.twitter.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "x.com",
+    "pattern": "*.x.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "grainy-gradients.vercel.app",
+    "pattern": "*.grainy-gradients.vercel.app/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "auth.privy.io",
+    "pattern": "*.auth.privy.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "wallet.okex.org",
+    "pattern": "*.wallet.okex.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "testnet.pharosnetwork.xyz",
+    "pattern": "*.testnet.pharosnetwork.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "abs.twimg.com",
+    "pattern": "*.abs.twimg.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "prod.spline.design",
+    "pattern": "*.prod.spline.design/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "challenges.cloudflare.com",
+    "pattern": "*.challenges.cloudflare.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "googleapis.com",
+    "pattern": "*.googleapis.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "fonts.googleapis.com",
+    "pattern": "*.fonts.googleapis.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "gstatic.com",
+    "pattern": "*.gstatic.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "fonts.gstatic.com",
+    "pattern": "*.fonts.gstatic.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "dropee.xyz",
+    "pattern": "*.dropee.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "iconic.dynamic-static-assets.com",
+    "pattern": "*.iconic.dynamic-static-assets.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "canopynetwork.org",
+    "pattern": "*.canopynetwork.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "polarise.org",
+    "pattern": "*.polarise.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "cdn.bugdrop.app",
+    "pattern": "*.cdn.bugdrop.app/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "posthog.com",
+    "pattern": "*.posthog.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "i.posthog.com",
+    "pattern": "*.i.posthog.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "eu-assets.i.posthog.com",
+    "pattern": "*.eu-assets.i.posthog.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "actionmodel.com",
+    "pattern": "*.actionmodel.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "tasks.actionmodel.com",
+    "pattern": "*.tasks.actionmodel.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "api.actionmodel.com",
+    "pattern": "*.api.actionmodel.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "growingio.com",
+    "pattern": "*.growingio.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "api-os.growingio.com",
+    "pattern": "*.api-os.growingio.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "taskon.xyz",
+    "pattern": "*.taskon.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "white-label-api.taskon.xyz",
+    "pattern": "*.white-label-api.taskon.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "iopn.tech",
+    "pattern": "*.iopn.tech/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "learn.iopn.tech",
+    "pattern": "*.learn.iopn.tech/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "metamask-sdk.api.cx.metamask.io",
+    "pattern": "*.metamask-sdk.api.cx.metamask.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "trex.xyz",
+    "pattern": "*.trex.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "static.trex.xyz",
+    "pattern": "*.static.trex.xyz/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "discord.com",
+    "pattern": "*.discord.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "gateway.discord.gg",
+    "pattern": "*.gateway.discord.gg/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "yom.net",
+    "pattern": "*.yom.net/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "cdn.discordapp.com",
+    "pattern": "*.cdn.discordapp.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "pbs.twimg.com",
+    "pattern": "*.pbs.twimg.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "cds.static.transifex.net",
+    "pattern": "*.cds.static.transifex.net/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "o4505039060140032.ingest.us.sentry.io",
+    "pattern": "*.o4505039060140032.ingest.us.sentry.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "www.googletagmanager.com",
+    "pattern": "*.www.googletagmanager.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "img.clerk.com",
+    "pattern": "*.img.clerk.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "aixcrypto.ai",
+    "pattern": "*.aixcrypto.ai/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "testnet.konnex.world",
+    "pattern": "*.testnet.konnex.world/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "assets.snagsolutions.io",
+    "pattern": "*.assets.snagsolutions.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "images.snagsolutions.io",
+    "pattern": "*.images.snagsolutions.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "google-analytics.com",
+    "pattern": "*.google-analytics.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "www.google-analytics.com",
+    "pattern": "*.www.google-analytics.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "cloudflareinsights.com",
+    "pattern": "*.cloudflareinsights.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "static.cloudflareinsights.com",
+    "pattern": "*.static.cloudflareinsights.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "walletconnect.org",
+    "pattern": "*.walletconnect.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "pulse.walletconnect.org",
+    "pattern": "*.pulse.walletconnect.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "web3modal.org",
+    "pattern": "*.web3modal.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "api.web3modal.org",
+    "pattern": "*.api.web3modal.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "merkle.io",
+    "pattern": "*.merkle.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "eth.merkle.io",
+    "pattern": "*.eth.merkle.io/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "google.com",
+    "pattern": "*.google.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "analytics.google.com",
+    "pattern": "*.analytics.google.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "aixcrypto.ai",
+    "pattern": "*.aixcrypto.ai/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "hub.aixcrypto.ai",
+    "pattern": "*.hub.aixcrypto.ai/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "walletconnect.com",
+    "pattern": "*.walletconnect.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "explorer-api.walletconnect.com",
+    "pattern": "*.explorer-api.walletconnect.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "hertzen.com",
+    "pattern": "*.hertzen.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "html2canvas.hertzen.com",
+    "pattern": "*.html2canvas.hertzen.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "hub.konnex.world",
+    "pattern": "*.hub.konnex.world/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "thirdweb.com",
+    "pattern": "*.thirdweb.com/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "www.google.co.jp",
+    "pattern": "*.www.google.co.jp/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "bugdrop.app",
+    "pattern": "*.bugdrop.app/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "telegram.org",
+    "pattern": "*.telegram.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "oauth.telegram.org",
+    "pattern": "*.oauth.telegram.org/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "transifex.net",
+    "pattern": "*.transifex.net/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "svc.transifex.net",
+    "pattern": "*.svc.transifex.net/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
+    "domain": "cds.svc.transifex.net",
+    "pattern": "*.cds.svc.transifex.net/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  }
+]
