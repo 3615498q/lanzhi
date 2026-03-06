@@ -1,6 +1,13 @@
 [
   {
     "type": "MatchPatternHost",
+    "domain": "ip111.cn",
+    "pattern": "*.ip111.cn/*",
+    "proxy": "DIRECT",
+    "enabled": true
+  },
+  {
+    "type": "MatchPatternHost",
     "domain": "o4507390533238784.ingest.de.sentry.io",
     "pattern": "*.o4507390533238784.ingest.de.sentry.io/*",
     "proxy": "DIRECT",
